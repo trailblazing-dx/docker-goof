@@ -1,3 +1,3 @@
-FROM node:21.6
+FROM node:21.7.3
 
 RUN apt-get install -y imagemagick
